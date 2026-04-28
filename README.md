@@ -1,8 +1,14 @@
 # ne ascii
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+<p align="center">
+  <img src="assets/ne-ascii-logo.png" alt="ne ascii logo" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/license-GPL--3.0-green" alt="License">
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform">
+</p>
 
 A modern minimalist desktop application for converting images to ASCII art using Braille characters.
 
